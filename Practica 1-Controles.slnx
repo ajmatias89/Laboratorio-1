@@ -1,3 +1,5 @@
 <Solution>
+  <Project Path="Descuento/TallerEnClase2.csproj" Id="bf2f609f-d6a3-4f23-81fa-570671a6a6a3" />
   <Project Path="Practica 1-Controles.csproj" Id="a52b5173-6a61-429e-a56c-56130651b2c5" />
+  <Project Path="PracticaDeEstructuraIF/PracticaDeEstructuraIF.csproj" Id="42e357c1-f33c-4061-b368-70c9cccdabc5" />
 </Solution>
